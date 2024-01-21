@@ -7,7 +7,7 @@
 
 ## 다운로드 링크
 * build file : https://drive.google.com/file/d/1tSw3zgyiv2wnn3t74-p5pO5XE5CRG8CS/view?usp=sharing
-* project file : https://drive.google.com/file/d/1tSw3zgyiv2wnn3t74-p5pO5XE5CRG8CS/view?usp=sharing
+* project file : https://drive.google.com/file/d/1LQxTyGBAcDM4wVPrhvoaR2pzmmT8-gzt/view?usp=sharing
   
 ## 프로젝트 소개
 * Leap Motion을 사용하여 다른 입력 기기 없이 손만 가지고 할 수 있는 슈팅 게임
